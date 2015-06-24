@@ -1,3 +1,6 @@
+#enter a some numbers and find out which one is the largest and which one is the smallest with this simple Python script
+
+
 largest = None
 smallest = None
 while True:
